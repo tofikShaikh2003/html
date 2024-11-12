@@ -68,8 +68,8 @@ body {
     border-radius: 7px;
     outline: none;
     border: 1px solid gray;
-    padding: 0, 10pz;
-}
+    padding-left: 10px;
+    }
 
 .gender-title {
     color: white;
